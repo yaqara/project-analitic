@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body{
+  text-align: center;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+#s1{
+  display: flex;
+  justify-content: center;
+}
+
+.input__file{
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+}
+
+.input__file-button{
+  width: 565px;
+  height: 25px;
+  background: #5C7887;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  margin: 0 auto;
+}
+
+#submit_stule{
+  height:25px;
+  width:565px;
+  background: #5C7887;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  border: 0.1px;
+  color: white;
+}
